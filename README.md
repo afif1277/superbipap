@@ -2,6 +2,6 @@
 It's a free tools for all.
 
 # Commands
-pkg update
-pkg install git
-pkg install python
+pkg update <br>
+pkg install git<br>
+pkg install python<br>
